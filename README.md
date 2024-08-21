@@ -1,6 +1,6 @@
 o- 👋 Hi, I’m @py-dad
 - 👀 I’m interested in automation, games
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and powershell
 - 💞️ I’m looking to collaborate on ... network automation
 - 📫 How to reach me ...
 - 😄 Pronouns: man
