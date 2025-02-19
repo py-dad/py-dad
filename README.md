@@ -4,7 +4,7 @@ o- 👋 Hi, I’m @py-dad
 - 💞️ I’m looking to collaborate on ... network automation
 - 📫 How to reach me ...
 - 😄 Pronouns: man
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... this is a new branch
 
 <!---
 py-dad/py-dad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
